@@ -1,2 +1,2 @@
 # melon-squad
-A tribute to the melon squad
+Just made a project for LHD:Share
